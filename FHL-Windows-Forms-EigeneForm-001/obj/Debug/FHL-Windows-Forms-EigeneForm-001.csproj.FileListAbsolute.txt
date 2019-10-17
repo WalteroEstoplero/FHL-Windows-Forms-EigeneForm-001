@@ -1,0 +1,7 @@
+C:\Users\walte\source\repos\FHL-Windows-Forms-EigeneForm-001\FHL-Windows-Forms-EigeneForm-001\obj\Debug\FHL-Windows-Forms-EigeneForm-001.csprojAssemblyReference.cache
+C:\Users\walte\source\repos\FHL-Windows-Forms-EigeneForm-001\FHL-Windows-Forms-EigeneForm-001\obj\Debug\FHL-Windows-Forms-EigeneForm-001.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\FHL-Windows-Forms-EigeneForm-001\FHL-Windows-Forms-EigeneForm-001\bin\Debug\FHL-Windows-Forms-EigeneForm-001.exe.config
+C:\Users\walte\source\repos\FHL-Windows-Forms-EigeneForm-001\FHL-Windows-Forms-EigeneForm-001\bin\Debug\FHL-Windows-Forms-EigeneForm-001.exe
+C:\Users\walte\source\repos\FHL-Windows-Forms-EigeneForm-001\FHL-Windows-Forms-EigeneForm-001\bin\Debug\FHL-Windows-Forms-EigeneForm-001.pdb
+C:\Users\walte\source\repos\FHL-Windows-Forms-EigeneForm-001\FHL-Windows-Forms-EigeneForm-001\obj\Debug\FHL-Windows-Forms-EigeneForm-001.exe
+C:\Users\walte\source\repos\FHL-Windows-Forms-EigeneForm-001\FHL-Windows-Forms-EigeneForm-001\obj\Debug\FHL-Windows-Forms-EigeneForm-001.pdb
